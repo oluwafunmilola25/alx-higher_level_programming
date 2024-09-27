@@ -1,1 +1,2 @@
-type()
+with open("filename.txt", "w") as file:
+    file.write("type")
